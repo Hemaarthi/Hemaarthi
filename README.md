@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Computer Science student from KEC</h3>
 
 - 🌱 I’m currently learning **Full Stack Development, Salesforce, and UI/UX**
-- 👩‍💻 I'm working on a **Travel Planner (MERN Stack)** and a **Smart Traffic System using YOLOv8**
 - 🧠 I recently completed an internship on **Salesforce** at Winfomi
 
 ---
